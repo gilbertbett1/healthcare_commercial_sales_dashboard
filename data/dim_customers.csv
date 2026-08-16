@@ -1,0 +1,801 @@
+customer_id,customer_name,customer_type,city,country
+1,Summit Hospital ELD1,Hospital,Eldoret,Kenya
+2,Summit Clinic NAI2,Clinic,Nairobi,Kenya
+3,Uzima Pharmacy NAI3,Retail Pharmacy,Nairobi,Kenya
+4,Riverside Hospital JIN4,Hospital,Jinja,Uganda
+5,Crescent Clinic NAI5,Clinic,Nairobi,Kenya
+6,Zawadi Clinic MBA6,Clinic,Mbarara,Uganda
+7,Hope Pharmacy NAK7,Retail Pharmacy,Nakuru,Kenya
+8,Lakeview Clinic KIS8,Clinic,Kisumu,Kenya
+9,Sunrise Clinic ARU9,Clinic,Arusha,Tanzania
+10,Baraka Hospital MWA10,Hospital,Mwanza,Tanzania
+11,Meadow Hospital ELD11,Hospital,Eldoret,Kenya
+12,Harambee Pharmacy KIS12,Retail Pharmacy,Kisumu,Kenya
+13,Riverside Pharmacy GUL13,Retail Pharmacy,Gulu,Uganda
+14,Metro Pharmacy MOM14,Retail Pharmacy,Mombasa,Kenya
+15,Baraka Pharmacy ELD15,Retail Pharmacy,Eldoret,Kenya
+16,Uzima Pharmacy KIS16,Retail Pharmacy,Kisumu,Kenya
+17,Meadow Health Foundation MBA17,NGO,Mbarara,Uganda
+18,Prime Clinic NAK18,Clinic,Nakuru,Kenya
+19,Metro Health Foundation GUL19,NGO,Gulu,Uganda
+20,Nyota Pharmacy DOD20,Retail Pharmacy,Dodoma,Tanzania
+21,Harambee Hospital NAK21,Hospital,Nakuru,Kenya
+22,Uzima Health Foundation MWA22,NGO,Mwanza,Tanzania
+23,Metro Clinic JIN23,Clinic,Jinja,Uganda
+24,Nyota Pharmacy MOM24,Retail Pharmacy,Mombasa,Kenya
+25,Crescent Health Foundation NAK25,NGO,Nakuru,Kenya
+26,Cedar Pharmacy ARU26,Retail Pharmacy,Arusha,Tanzania
+27,Nyota Hospital NAK27,Hospital,Nakuru,Kenya
+28,Amani Clinic DOD28,Clinic,Dodoma,Tanzania
+29,Sunrise Pharmacy NAI29,Retail Pharmacy,Nairobi,Kenya
+30,Prime Clinic KAM30,Clinic,Kampala,Uganda
+31,Sunrise Clinic DOD31,Clinic,Dodoma,Tanzania
+32,Baraka Pharmacy ELD32,Retail Pharmacy,Eldoret,Kenya
+33,Harambee Pharmacy MWA33,Retail Pharmacy,Mwanza,Tanzania
+34,Zawadi Pharmacy MBA34,Retail Pharmacy,Mbarara,Uganda
+35,Highland Clinic ARU35,Clinic,Arusha,Tanzania
+36,Zawadi Pharmacy DAR36,Retail Pharmacy,Dar es Salaam,Tanzania
+37,Unity Hospital ELD37,Hospital,Eldoret,Kenya
+38,Crescent Clinic MOM38,Clinic,Mombasa,Kenya
+39,Unity Pharmacy NAI39,Retail Pharmacy,Nairobi,Kenya
+40,Metro Health Foundation MWA40,NGO,Mwanza,Tanzania
+41,Baraka Pharmacy MOM41,Retail Pharmacy,Mombasa,Kenya
+42,Hope Clinic MWA42,Clinic,Mwanza,Tanzania
+43,Amani Clinic KIS43,Clinic,Kisumu,Kenya
+44,Cedar Pharmacy KIS44,Retail Pharmacy,Kisumu,Kenya
+45,Lakeview Pharmacy NAI45,Retail Pharmacy,Nairobi,Kenya
+46,Unity Pharmacy JIN46,Retail Pharmacy,Jinja,Uganda
+47,Nyota Clinic ARU47,Clinic,Arusha,Tanzania
+48,Sunrise Clinic KIS48,Clinic,Kisumu,Kenya
+49,Lakeview Clinic MOM49,Clinic,Mombasa,Kenya
+50,Metro Hospital MBA50,Hospital,Mbarara,Uganda
+51,Highland Pharmacy NAK51,Retail Pharmacy,Nakuru,Kenya
+52,Riverside Clinic MOM52,Clinic,Mombasa,Kenya
+53,Jubilee Clinic JIN53,Clinic,Jinja,Uganda
+54,Summit Hospital NAK54,Hospital,Nakuru,Kenya
+55,Prime Clinic GUL55,Clinic,Gulu,Uganda
+56,Uzima Pharmacy DOD56,Retail Pharmacy,Dodoma,Tanzania
+57,Lakeview Clinic KIS57,Clinic,Kisumu,Kenya
+58,Baraka Pharmacy GUL58,Retail Pharmacy,Gulu,Uganda
+59,Highland Pharmacy DAR59,Retail Pharmacy,Dar es Salaam,Tanzania
+60,Harambee Pharmacy NAI60,Retail Pharmacy,Nairobi,Kenya
+61,Riverside Pharmacy JIN61,Retail Pharmacy,Jinja,Uganda
+62,Zawadi Pharmacy NAI62,Retail Pharmacy,Nairobi,Kenya
+63,Harambee Pharmacy KAM63,Retail Pharmacy,Kampala,Uganda
+64,Uzima Pharmacy MOM64,Retail Pharmacy,Mombasa,Kenya
+65,Uzima Clinic NAI65,Clinic,Nairobi,Kenya
+66,Riverside Hospital KAM66,Hospital,Kampala,Uganda
+67,Kilimo Clinic MOM67,Clinic,Mombasa,Kenya
+68,Jubilee Pharmacy ELD68,Retail Pharmacy,Eldoret,Kenya
+69,Lakeview Clinic MOM69,Clinic,Mombasa,Kenya
+70,Kilimo Health Foundation MOM70,NGO,Mombasa,Kenya
+71,Uzima Clinic NAI71,Clinic,Nairobi,Kenya
+72,Riverside Pharmacy NAI72,Retail Pharmacy,Nairobi,Kenya
+73,Meadow Pharmacy ELD73,Retail Pharmacy,Eldoret,Kenya
+74,Kilimo Hospital NAI74,Hospital,Nairobi,Kenya
+75,Prime Hospital KAM75,Hospital,Kampala,Uganda
+76,Nyota Clinic ELD76,Clinic,Eldoret,Kenya
+77,Harambee Clinic NAK77,Clinic,Nakuru,Kenya
+78,Jubilee Clinic ELD78,Clinic,Eldoret,Kenya
+79,Cedar Health Foundation JIN79,NGO,Jinja,Uganda
+80,Nyota Pharmacy ARU80,Retail Pharmacy,Arusha,Tanzania
+81,Nyota Pharmacy GUL81,Retail Pharmacy,Gulu,Uganda
+82,Crescent Pharmacy KIS82,Retail Pharmacy,Kisumu,Kenya
+83,Hope Pharmacy NAI83,Retail Pharmacy,Nairobi,Kenya
+84,Lakeview Clinic KAM84,Clinic,Kampala,Uganda
+85,Baraka Clinic NAK85,Clinic,Nakuru,Kenya
+86,Prime Pharmacy KIS86,Retail Pharmacy,Kisumu,Kenya
+87,Baraka Hospital NAK87,Hospital,Nakuru,Kenya
+88,Jubilee Pharmacy ELD88,Retail Pharmacy,Eldoret,Kenya
+89,Jubilee Pharmacy GUL89,Retail Pharmacy,Gulu,Uganda
+90,Uzima Hospital DOD90,Hospital,Dodoma,Tanzania
+91,Unity Pharmacy NAK91,Retail Pharmacy,Nakuru,Kenya
+92,Harambee Clinic KIS92,Clinic,Kisumu,Kenya
+93,Uzima Hospital ELD93,Hospital,Eldoret,Kenya
+94,Metro Pharmacy DAR94,Retail Pharmacy,Dar es Salaam,Tanzania
+95,Zawadi Pharmacy MBA95,Retail Pharmacy,Mbarara,Uganda
+96,Highland Hospital MBA96,Hospital,Mbarara,Uganda
+97,Summit Pharmacy DOD97,Retail Pharmacy,Dodoma,Tanzania
+98,Sunrise Clinic KIS98,Clinic,Kisumu,Kenya
+99,Zawadi Pharmacy KIS99,Retail Pharmacy,Kisumu,Kenya
+100,Kilimo Clinic ELD100,Clinic,Eldoret,Kenya
+101,Prime Pharmacy DAR101,Retail Pharmacy,Dar es Salaam,Tanzania
+102,Amani Clinic DAR102,Clinic,Dar es Salaam,Tanzania
+103,Metro Clinic MOM103,Clinic,Mombasa,Kenya
+104,Cedar Hospital ELD104,Hospital,Eldoret,Kenya
+105,Summit Clinic MBA105,Clinic,Mbarara,Uganda
+106,Prime Clinic KIS106,Clinic,Kisumu,Kenya
+107,Riverside Pharmacy DOD107,Retail Pharmacy,Dodoma,Tanzania
+108,Amani Pharmacy KAM108,Retail Pharmacy,Kampala,Uganda
+109,Summit Clinic ELD109,Clinic,Eldoret,Kenya
+110,Lakeview Pharmacy ELD110,Retail Pharmacy,Eldoret,Kenya
+111,Riverside Pharmacy MBA111,Retail Pharmacy,Mbarara,Uganda
+112,Cedar Hospital MWA112,Hospital,Mwanza,Tanzania
+113,Zawadi Pharmacy NAI113,Retail Pharmacy,Nairobi,Kenya
+114,Riverside Clinic NAI114,Clinic,Nairobi,Kenya
+115,Uzima Pharmacy ARU115,Retail Pharmacy,Arusha,Tanzania
+116,Lakeview Clinic DAR116,Clinic,Dar es Salaam,Tanzania
+117,Kilimo Pharmacy MOM117,Retail Pharmacy,Mombasa,Kenya
+118,Baraka Pharmacy KIS118,Retail Pharmacy,Kisumu,Kenya
+119,Amani Health Foundation NAI119,NGO,Nairobi,Kenya
+120,Amani Pharmacy NAK120,Retail Pharmacy,Nakuru,Kenya
+121,Lakeview Clinic MOM121,Clinic,Mombasa,Kenya
+122,Metro Health Foundation DOD122,NGO,Dodoma,Tanzania
+123,Unity Pharmacy DOD123,Retail Pharmacy,Dodoma,Tanzania
+124,Unity Hospital NAI124,Hospital,Nairobi,Kenya
+125,Unity Hospital DAR125,Hospital,Dar es Salaam,Tanzania
+126,Kilimo Pharmacy KIS126,Retail Pharmacy,Kisumu,Kenya
+127,Nyota Hospital DAR127,Hospital,Dar es Salaam,Tanzania
+128,Meadow Pharmacy NAK128,Retail Pharmacy,Nakuru,Kenya
+129,Riverside Clinic ARU129,Clinic,Arusha,Tanzania
+130,Amani Pharmacy DAR130,Retail Pharmacy,Dar es Salaam,Tanzania
+131,Uzima Pharmacy ELD131,Retail Pharmacy,Eldoret,Kenya
+132,Cedar Pharmacy ELD132,Retail Pharmacy,Eldoret,Kenya
+133,Baraka Clinic KIS133,Clinic,Kisumu,Kenya
+134,Nyota Pharmacy DOD134,Retail Pharmacy,Dodoma,Tanzania
+135,Highland Pharmacy KIS135,Retail Pharmacy,Kisumu,Kenya
+136,Riverside Clinic DAR136,Clinic,Dar es Salaam,Tanzania
+137,Kilimo Hospital GUL137,Hospital,Gulu,Uganda
+138,Sunrise Pharmacy MBA138,Retail Pharmacy,Mbarara,Uganda
+139,Cedar Health Foundation NAI139,NGO,Nairobi,Kenya
+140,Sunrise Pharmacy ARU140,Retail Pharmacy,Arusha,Tanzania
+141,Crescent Pharmacy KIS141,Retail Pharmacy,Kisumu,Kenya
+142,Riverside Clinic NAI142,Clinic,Nairobi,Kenya
+143,Harambee Hospital JIN143,Hospital,Jinja,Uganda
+144,Meadow Pharmacy JIN144,Retail Pharmacy,Jinja,Uganda
+145,Sunrise Clinic DOD145,Clinic,Dodoma,Tanzania
+146,Prime Clinic KIS146,Clinic,Kisumu,Kenya
+147,Cedar Pharmacy MOM147,Retail Pharmacy,Mombasa,Kenya
+148,Metro Clinic GUL148,Clinic,Gulu,Uganda
+149,Nyota Clinic NAK149,Clinic,Nakuru,Kenya
+150,Jubilee Pharmacy JIN150,Retail Pharmacy,Jinja,Uganda
+151,Sunrise Pharmacy ELD151,Retail Pharmacy,Eldoret,Kenya
+152,Zawadi Pharmacy KIS152,Retail Pharmacy,Kisumu,Kenya
+153,Metro Clinic NAK153,Clinic,Nakuru,Kenya
+154,Lakeview Hospital JIN154,Hospital,Jinja,Uganda
+155,Metro Hospital MBA155,Hospital,Mbarara,Uganda
+156,Cedar Pharmacy ELD156,Retail Pharmacy,Eldoret,Kenya
+157,Harambee Pharmacy MWA157,Retail Pharmacy,Mwanza,Tanzania
+158,Highland Clinic ARU158,Clinic,Arusha,Tanzania
+159,Uzima Clinic GUL159,Clinic,Gulu,Uganda
+160,Hope Pharmacy ARU160,Retail Pharmacy,Arusha,Tanzania
+161,Baraka Hospital NAK161,Hospital,Nakuru,Kenya
+162,Lakeview Clinic MBA162,Clinic,Mbarara,Uganda
+163,Prime Pharmacy JIN163,Retail Pharmacy,Jinja,Uganda
+164,Meadow Pharmacy KIS164,Retail Pharmacy,Kisumu,Kenya
+165,Hope Clinic KAM165,Clinic,Kampala,Uganda
+166,Meadow Pharmacy NAK166,Retail Pharmacy,Nakuru,Kenya
+167,Zawadi Clinic DAR167,Clinic,Dar es Salaam,Tanzania
+168,Crescent Pharmacy KAM168,Retail Pharmacy,Kampala,Uganda
+169,Highland Pharmacy MOM169,Retail Pharmacy,Mombasa,Kenya
+170,Harambee Pharmacy MWA170,Retail Pharmacy,Mwanza,Tanzania
+171,Jubilee Health Foundation MBA171,NGO,Mbarara,Uganda
+172,Cedar Hospital NAK172,Hospital,Nakuru,Kenya
+173,Unity Pharmacy ARU173,Retail Pharmacy,Arusha,Tanzania
+174,Hope Pharmacy NAK174,Retail Pharmacy,Nakuru,Kenya
+175,Uzima Pharmacy GUL175,Retail Pharmacy,Gulu,Uganda
+176,Crescent Pharmacy DOD176,Retail Pharmacy,Dodoma,Tanzania
+177,Meadow Hospital KIS177,Hospital,Kisumu,Kenya
+178,Harambee Clinic MOM178,Clinic,Mombasa,Kenya
+179,Riverside Health Foundation DOD179,NGO,Dodoma,Tanzania
+180,Baraka Clinic MWA180,Clinic,Mwanza,Tanzania
+181,Metro Pharmacy KIS181,Retail Pharmacy,Kisumu,Kenya
+182,Kilimo Pharmacy NAK182,Retail Pharmacy,Nakuru,Kenya
+183,Prime Pharmacy KIS183,Retail Pharmacy,Kisumu,Kenya
+184,Sunrise Pharmacy DOD184,Retail Pharmacy,Dodoma,Tanzania
+185,Baraka Clinic NAI185,Clinic,Nairobi,Kenya
+186,Metro Clinic ELD186,Clinic,Eldoret,Kenya
+187,Highland Health Foundation NAI187,NGO,Nairobi,Kenya
+188,Unity Pharmacy NAI188,Retail Pharmacy,Nairobi,Kenya
+189,Metro Health Foundation MWA189,NGO,Mwanza,Tanzania
+190,Amani Clinic NAI190,Clinic,Nairobi,Kenya
+191,Kilimo Clinic ARU191,Clinic,Arusha,Tanzania
+192,Uzima Pharmacy DAR192,Retail Pharmacy,Dar es Salaam,Tanzania
+193,Highland Hospital JIN193,Hospital,Jinja,Uganda
+194,Riverside Health Foundation MBA194,NGO,Mbarara,Uganda
+195,Prime Pharmacy GUL195,Retail Pharmacy,Gulu,Uganda
+196,Highland Pharmacy MWA196,Retail Pharmacy,Mwanza,Tanzania
+197,Sunrise Pharmacy KIS197,Retail Pharmacy,Kisumu,Kenya
+198,Prime Clinic NAK198,Clinic,Nakuru,Kenya
+199,Sunrise Pharmacy DOD199,Retail Pharmacy,Dodoma,Tanzania
+200,Uzima Clinic JIN200,Clinic,Jinja,Uganda
+201,Jubilee Pharmacy ARU201,Retail Pharmacy,Arusha,Tanzania
+202,Lakeview Pharmacy ELD202,Retail Pharmacy,Eldoret,Kenya
+203,Amani Pharmacy KIS203,Retail Pharmacy,Kisumu,Kenya
+204,Cedar Clinic NAI204,Clinic,Nairobi,Kenya
+205,Lakeview Clinic KAM205,Clinic,Kampala,Uganda
+206,Highland Clinic NAI206,Clinic,Nairobi,Kenya
+207,Riverside Clinic GUL207,Clinic,Gulu,Uganda
+208,Jubilee Clinic NAI208,Clinic,Nairobi,Kenya
+209,Nyota Hospital ARU209,Hospital,Arusha,Tanzania
+210,Unity Pharmacy NAK210,Retail Pharmacy,Nakuru,Kenya
+211,Harambee Clinic MOM211,Clinic,Mombasa,Kenya
+212,Uzima Pharmacy NAI212,Retail Pharmacy,Nairobi,Kenya
+213,Prime Pharmacy DAR213,Retail Pharmacy,Dar es Salaam,Tanzania
+214,Uzima Clinic ELD214,Clinic,Eldoret,Kenya
+215,Harambee Clinic KIS215,Clinic,Kisumu,Kenya
+216,Metro Pharmacy DOD216,Retail Pharmacy,Dodoma,Tanzania
+217,Highland Pharmacy KAM217,Retail Pharmacy,Kampala,Uganda
+218,Sunrise Hospital MBA218,Hospital,Mbarara,Uganda
+219,Nyota Pharmacy GUL219,Retail Pharmacy,Gulu,Uganda
+220,Metro Hospital KAM220,Hospital,Kampala,Uganda
+221,Baraka Clinic MOM221,Clinic,Mombasa,Kenya
+222,Zawadi Pharmacy GUL222,Retail Pharmacy,Gulu,Uganda
+223,Kilimo Pharmacy JIN223,Retail Pharmacy,Jinja,Uganda
+224,Sunrise Pharmacy MBA224,Retail Pharmacy,Mbarara,Uganda
+225,Zawadi Clinic NAI225,Clinic,Nairobi,Kenya
+226,Cedar Clinic NAK226,Clinic,Nakuru,Kenya
+227,Kilimo Health Foundation KIS227,NGO,Kisumu,Kenya
+228,Kilimo Hospital NAI228,Hospital,Nairobi,Kenya
+229,Crescent Pharmacy KAM229,Retail Pharmacy,Kampala,Uganda
+230,Nyota Pharmacy NAI230,Retail Pharmacy,Nairobi,Kenya
+231,Uzima Clinic NAI231,Clinic,Nairobi,Kenya
+232,Nyota Pharmacy MOM232,Retail Pharmacy,Mombasa,Kenya
+233,Unity Hospital MOM233,Hospital,Mombasa,Kenya
+234,Prime Clinic DAR234,Clinic,Dar es Salaam,Tanzania
+235,Kilimo Pharmacy NAI235,Retail Pharmacy,Nairobi,Kenya
+236,Harambee Clinic NAK236,Clinic,Nakuru,Kenya
+237,Baraka Hospital DOD237,Hospital,Dodoma,Tanzania
+238,Cedar Pharmacy ELD238,Retail Pharmacy,Eldoret,Kenya
+239,Summit Hospital ARU239,Hospital,Arusha,Tanzania
+240,Lakeview Health Foundation ELD240,NGO,Eldoret,Kenya
+241,Harambee Health Foundation KIS241,NGO,Kisumu,Kenya
+242,Kilimo Hospital MOM242,Hospital,Mombasa,Kenya
+243,Harambee Pharmacy NAI243,Retail Pharmacy,Nairobi,Kenya
+244,Jubilee Hospital DAR244,Hospital,Dar es Salaam,Tanzania
+245,Meadow Pharmacy MOM245,Retail Pharmacy,Mombasa,Kenya
+246,Hope Health Foundation MWA246,NGO,Mwanza,Tanzania
+247,Harambee Hospital MOM247,Hospital,Mombasa,Kenya
+248,Sunrise Clinic KIS248,Clinic,Kisumu,Kenya
+249,Cedar Pharmacy KIS249,Retail Pharmacy,Kisumu,Kenya
+250,Nyota Pharmacy MOM250,Retail Pharmacy,Mombasa,Kenya
+251,Zawadi Pharmacy NAK251,Retail Pharmacy,Nakuru,Kenya
+252,Nyota Pharmacy MWA252,Retail Pharmacy,Mwanza,Tanzania
+253,Baraka Hospital DOD253,Hospital,Dodoma,Tanzania
+254,Meadow Health Foundation NAK254,NGO,Nakuru,Kenya
+255,Harambee Hospital ARU255,Hospital,Arusha,Tanzania
+256,Summit Clinic NAI256,Clinic,Nairobi,Kenya
+257,Uzima Clinic KIS257,Clinic,Kisumu,Kenya
+258,Kilimo Hospital ELD258,Hospital,Eldoret,Kenya
+259,Crescent Pharmacy DAR259,Retail Pharmacy,Dar es Salaam,Tanzania
+260,Cedar Hospital ELD260,Hospital,Eldoret,Kenya
+261,Baraka Clinic MOM261,Clinic,Mombasa,Kenya
+262,Cedar Health Foundation JIN262,NGO,Jinja,Uganda
+263,Summit Pharmacy DOD263,Retail Pharmacy,Dodoma,Tanzania
+264,Baraka Pharmacy MWA264,Retail Pharmacy,Mwanza,Tanzania
+265,Amani Hospital DAR265,Hospital,Dar es Salaam,Tanzania
+266,Summit Hospital MWA266,Hospital,Mwanza,Tanzania
+267,Baraka Pharmacy KIS267,Retail Pharmacy,Kisumu,Kenya
+268,Cedar Clinic DAR268,Clinic,Dar es Salaam,Tanzania
+269,Cedar Clinic MOM269,Clinic,Mombasa,Kenya
+270,Unity Hospital KAM270,Hospital,Kampala,Uganda
+271,Baraka Clinic NAK271,Clinic,Nakuru,Kenya
+272,Jubilee Pharmacy JIN272,Retail Pharmacy,Jinja,Uganda
+273,Unity Pharmacy JIN273,Retail Pharmacy,Jinja,Uganda
+274,Uzima Pharmacy NAI274,Retail Pharmacy,Nairobi,Kenya
+275,Amani Pharmacy DAR275,Retail Pharmacy,Dar es Salaam,Tanzania
+276,Jubilee Pharmacy DOD276,Retail Pharmacy,Dodoma,Tanzania
+277,Sunrise Hospital MWA277,Hospital,Mwanza,Tanzania
+278,Amani Pharmacy KIS278,Retail Pharmacy,Kisumu,Kenya
+279,Prime Health Foundation MWA279,NGO,Mwanza,Tanzania
+280,Nyota Pharmacy KAM280,Retail Pharmacy,Kampala,Uganda
+281,Zawadi Health Foundation ELD281,NGO,Eldoret,Kenya
+282,Riverside Pharmacy ELD282,Retail Pharmacy,Eldoret,Kenya
+283,Cedar Hospital ELD283,Hospital,Eldoret,Kenya
+284,Zawadi Pharmacy GUL284,Retail Pharmacy,Gulu,Uganda
+285,Highland Health Foundation KIS285,NGO,Kisumu,Kenya
+286,Uzima Pharmacy MOM286,Retail Pharmacy,Mombasa,Kenya
+287,Baraka Clinic ELD287,Clinic,Eldoret,Kenya
+288,Metro Health Foundation MWA288,NGO,Mwanza,Tanzania
+289,Summit Pharmacy DOD289,Retail Pharmacy,Dodoma,Tanzania
+290,Harambee Hospital GUL290,Hospital,Gulu,Uganda
+291,Zawadi Clinic DOD291,Clinic,Dodoma,Tanzania
+292,Highland Pharmacy KIS292,Retail Pharmacy,Kisumu,Kenya
+293,Hope Pharmacy MOM293,Retail Pharmacy,Mombasa,Kenya
+294,Uzima Pharmacy DAR294,Retail Pharmacy,Dar es Salaam,Tanzania
+295,Lakeview Pharmacy GUL295,Retail Pharmacy,Gulu,Uganda
+296,Meadow Health Foundation NAI296,NGO,Nairobi,Kenya
+297,Crescent Health Foundation KAM297,NGO,Kampala,Uganda
+298,Sunrise Pharmacy ELD298,Retail Pharmacy,Eldoret,Kenya
+299,Baraka Pharmacy NAI299,Retail Pharmacy,Nairobi,Kenya
+300,Prime Hospital MWA300,Hospital,Mwanza,Tanzania
+301,Crescent Clinic NAK301,Clinic,Nakuru,Kenya
+302,Baraka Health Foundation MWA302,NGO,Mwanza,Tanzania
+303,Unity Pharmacy MOM303,Retail Pharmacy,Mombasa,Kenya
+304,Lakeview Pharmacy ARU304,Retail Pharmacy,Arusha,Tanzania
+305,Metro Pharmacy GUL305,Retail Pharmacy,Gulu,Uganda
+306,Uzima Clinic JIN306,Clinic,Jinja,Uganda
+307,Summit Clinic KIS307,Clinic,Kisumu,Kenya
+308,Meadow Pharmacy DAR308,Retail Pharmacy,Dar es Salaam,Tanzania
+309,Riverside Hospital NAI309,Hospital,Nairobi,Kenya
+310,Cedar Health Foundation KIS310,NGO,Kisumu,Kenya
+311,Harambee Pharmacy KIS311,Retail Pharmacy,Kisumu,Kenya
+312,Hope Pharmacy KAM312,Retail Pharmacy,Kampala,Uganda
+313,Riverside Health Foundation NAK313,NGO,Nakuru,Kenya
+314,Hope Hospital ARU314,Hospital,Arusha,Tanzania
+315,Hope Hospital DAR315,Hospital,Dar es Salaam,Tanzania
+316,Uzima Hospital NAK316,Hospital,Nakuru,Kenya
+317,Unity Pharmacy GUL317,Retail Pharmacy,Gulu,Uganda
+318,Hope Health Foundation MBA318,NGO,Mbarara,Uganda
+319,Sunrise Clinic MOM319,Clinic,Mombasa,Kenya
+320,Nyota Hospital MBA320,Hospital,Mbarara,Uganda
+321,Sunrise Pharmacy KAM321,Retail Pharmacy,Kampala,Uganda
+322,Amani Clinic KAM322,Clinic,Kampala,Uganda
+323,Cedar Pharmacy ELD323,Retail Pharmacy,Eldoret,Kenya
+324,Sunrise Pharmacy ELD324,Retail Pharmacy,Eldoret,Kenya
+325,Hope Clinic JIN325,Clinic,Jinja,Uganda
+326,Zawadi Pharmacy GUL326,Retail Pharmacy,Gulu,Uganda
+327,Sunrise Pharmacy MOM327,Retail Pharmacy,Mombasa,Kenya
+328,Hope Pharmacy MOM328,Retail Pharmacy,Mombasa,Kenya
+329,Unity Pharmacy MBA329,Retail Pharmacy,Mbarara,Uganda
+330,Baraka Clinic ARU330,Clinic,Arusha,Tanzania
+331,Highland Clinic ELD331,Clinic,Eldoret,Kenya
+332,Amani Pharmacy MOM332,Retail Pharmacy,Mombasa,Kenya
+333,Summit Pharmacy KIS333,Retail Pharmacy,Kisumu,Kenya
+334,Sunrise Pharmacy NAK334,Retail Pharmacy,Nakuru,Kenya
+335,Crescent Pharmacy NAI335,Retail Pharmacy,Nairobi,Kenya
+336,Cedar Clinic MOM336,Clinic,Mombasa,Kenya
+337,Riverside Hospital ELD337,Hospital,Eldoret,Kenya
+338,Unity Hospital DOD338,Hospital,Dodoma,Tanzania
+339,Sunrise Clinic DOD339,Clinic,Dodoma,Tanzania
+340,Jubilee Pharmacy KIS340,Retail Pharmacy,Kisumu,Kenya
+341,Kilimo Pharmacy KIS341,Retail Pharmacy,Kisumu,Kenya
+342,Harambee Clinic MBA342,Clinic,Mbarara,Uganda
+343,Cedar Clinic NAI343,Clinic,Nairobi,Kenya
+344,Baraka Clinic DOD344,Clinic,Dodoma,Tanzania
+345,Hope Pharmacy ELD345,Retail Pharmacy,Eldoret,Kenya
+346,Unity Health Foundation JIN346,NGO,Jinja,Uganda
+347,Amani Pharmacy JIN347,Retail Pharmacy,Jinja,Uganda
+348,Metro Pharmacy NAI348,Retail Pharmacy,Nairobi,Kenya
+349,Riverside Clinic ELD349,Clinic,Eldoret,Kenya
+350,Amani Pharmacy NAK350,Retail Pharmacy,Nakuru,Kenya
+351,Zawadi Clinic ELD351,Clinic,Eldoret,Kenya
+352,Unity Clinic KAM352,Clinic,Kampala,Uganda
+353,Jubilee Health Foundation MOM353,NGO,Mombasa,Kenya
+354,Prime Pharmacy MOM354,Retail Pharmacy,Mombasa,Kenya
+355,Jubilee Clinic ARU355,Clinic,Arusha,Tanzania
+356,Prime Pharmacy ARU356,Retail Pharmacy,Arusha,Tanzania
+357,Crescent Health Foundation KAM357,NGO,Kampala,Uganda
+358,Hope Hospital NAI358,Hospital,Nairobi,Kenya
+359,Lakeview Pharmacy ELD359,Retail Pharmacy,Eldoret,Kenya
+360,Uzima Pharmacy NAK360,Retail Pharmacy,Nakuru,Kenya
+361,Hope Hospital NAI361,Hospital,Nairobi,Kenya
+362,Baraka Clinic GUL362,Clinic,Gulu,Uganda
+363,Amani Pharmacy ELD363,Retail Pharmacy,Eldoret,Kenya
+364,Cedar Clinic ELD364,Clinic,Eldoret,Kenya
+365,Baraka Hospital NAK365,Hospital,Nakuru,Kenya
+366,Amani Hospital MOM366,Hospital,Mombasa,Kenya
+367,Nyota Clinic ARU367,Clinic,Arusha,Tanzania
+368,Baraka Pharmacy ELD368,Retail Pharmacy,Eldoret,Kenya
+369,Nyota Health Foundation MOM369,NGO,Mombasa,Kenya
+370,Metro Clinic KIS370,Clinic,Kisumu,Kenya
+371,Zawadi Pharmacy MOM371,Retail Pharmacy,Mombasa,Kenya
+372,Sunrise Pharmacy MWA372,Retail Pharmacy,Mwanza,Tanzania
+373,Cedar Clinic DOD373,Clinic,Dodoma,Tanzania
+374,Nyota Clinic MOM374,Clinic,Mombasa,Kenya
+375,Metro Clinic JIN375,Clinic,Jinja,Uganda
+376,Baraka Health Foundation DAR376,NGO,Dar es Salaam,Tanzania
+377,Uzima Clinic NAK377,Clinic,Nakuru,Kenya
+378,Uzima Clinic MBA378,Clinic,Mbarara,Uganda
+379,Harambee Pharmacy NAK379,Retail Pharmacy,Nakuru,Kenya
+380,Nyota Hospital KAM380,Hospital,Kampala,Uganda
+381,Harambee Clinic KIS381,Clinic,Kisumu,Kenya
+382,Highland Clinic ELD382,Clinic,Eldoret,Kenya
+383,Lakeview Pharmacy MBA383,Retail Pharmacy,Mbarara,Uganda
+384,Meadow Clinic DOD384,Clinic,Dodoma,Tanzania
+385,Sunrise Pharmacy DOD385,Retail Pharmacy,Dodoma,Tanzania
+386,Amani Health Foundation NAK386,NGO,Nakuru,Kenya
+387,Cedar Clinic NAI387,Clinic,Nairobi,Kenya
+388,Metro Pharmacy ARU388,Retail Pharmacy,Arusha,Tanzania
+389,Amani Pharmacy DOD389,Retail Pharmacy,Dodoma,Tanzania
+390,Highland Hospital NAK390,Hospital,Nakuru,Kenya
+391,Kilimo Pharmacy MWA391,Retail Pharmacy,Mwanza,Tanzania
+392,Metro Hospital KAM392,Hospital,Kampala,Uganda
+393,Meadow Pharmacy KIS393,Retail Pharmacy,Kisumu,Kenya
+394,Unity Pharmacy ELD394,Retail Pharmacy,Eldoret,Kenya
+395,Nyota Clinic ELD395,Clinic,Eldoret,Kenya
+396,Hope Clinic ARU396,Clinic,Arusha,Tanzania
+397,Unity Hospital ELD397,Hospital,Eldoret,Kenya
+398,Unity Pharmacy NAK398,Retail Pharmacy,Nakuru,Kenya
+399,Baraka Clinic DAR399,Clinic,Dar es Salaam,Tanzania
+400,Baraka Hospital MBA400,Hospital,Mbarara,Uganda
+401,Lakeview Hospital KIS401,Hospital,Kisumu,Kenya
+402,Cedar Clinic DAR402,Clinic,Dar es Salaam,Tanzania
+403,Highland Pharmacy JIN403,Retail Pharmacy,Jinja,Uganda
+404,Meadow Clinic DOD404,Clinic,Dodoma,Tanzania
+405,Baraka Pharmacy MOM405,Retail Pharmacy,Mombasa,Kenya
+406,Cedar Pharmacy NAI406,Retail Pharmacy,Nairobi,Kenya
+407,Nyota Pharmacy ELD407,Retail Pharmacy,Eldoret,Kenya
+408,Riverside Clinic GUL408,Clinic,Gulu,Uganda
+409,Unity Hospital MWA409,Hospital,Mwanza,Tanzania
+410,Hope Pharmacy MBA410,Retail Pharmacy,Mbarara,Uganda
+411,Unity Pharmacy MOM411,Retail Pharmacy,Mombasa,Kenya
+412,Zawadi Pharmacy NAK412,Retail Pharmacy,Nakuru,Kenya
+413,Harambee Pharmacy DAR413,Retail Pharmacy,Dar es Salaam,Tanzania
+414,Crescent Pharmacy MWA414,Retail Pharmacy,Mwanza,Tanzania
+415,Kilimo Pharmacy NAK415,Retail Pharmacy,Nakuru,Kenya
+416,Harambee Pharmacy MWA416,Retail Pharmacy,Mwanza,Tanzania
+417,Highland Hospital KIS417,Hospital,Kisumu,Kenya
+418,Summit Hospital MBA418,Hospital,Mbarara,Uganda
+419,Jubilee Clinic KAM419,Clinic,Kampala,Uganda
+420,Cedar Pharmacy NAK420,Retail Pharmacy,Nakuru,Kenya
+421,Lakeview Pharmacy KIS421,Retail Pharmacy,Kisumu,Kenya
+422,Meadow Pharmacy JIN422,Retail Pharmacy,Jinja,Uganda
+423,Harambee Clinic GUL423,Clinic,Gulu,Uganda
+424,Hope Hospital KIS424,Hospital,Kisumu,Kenya
+425,Metro Hospital ELD425,Hospital,Eldoret,Kenya
+426,Unity Pharmacy MBA426,Retail Pharmacy,Mbarara,Uganda
+427,Lakeview Clinic KIS427,Clinic,Kisumu,Kenya
+428,Nyota Health Foundation KIS428,NGO,Kisumu,Kenya
+429,Baraka Pharmacy KIS429,Retail Pharmacy,Kisumu,Kenya
+430,Sunrise Pharmacy NAI430,Retail Pharmacy,Nairobi,Kenya
+431,Amani Pharmacy GUL431,Retail Pharmacy,Gulu,Uganda
+432,Harambee Health Foundation KIS432,NGO,Kisumu,Kenya
+433,Sunrise Pharmacy KAM433,Retail Pharmacy,Kampala,Uganda
+434,Uzima Clinic NAK434,Clinic,Nakuru,Kenya
+435,Uzima Hospital DAR435,Hospital,Dar es Salaam,Tanzania
+436,Meadow Health Foundation DOD436,NGO,Dodoma,Tanzania
+437,Prime Pharmacy MOM437,Retail Pharmacy,Mombasa,Kenya
+438,Riverside Health Foundation JIN438,NGO,Jinja,Uganda
+439,Hope Hospital GUL439,Hospital,Gulu,Uganda
+440,Sunrise Pharmacy DOD440,Retail Pharmacy,Dodoma,Tanzania
+441,Summit Pharmacy MWA441,Retail Pharmacy,Mwanza,Tanzania
+442,Summit Health Foundation ARU442,NGO,Arusha,Tanzania
+443,Riverside Pharmacy DOD443,Retail Pharmacy,Dodoma,Tanzania
+444,Uzima Hospital JIN444,Hospital,Jinja,Uganda
+445,Prime Pharmacy MBA445,Retail Pharmacy,Mbarara,Uganda
+446,Nyota Pharmacy NAK446,Retail Pharmacy,Nakuru,Kenya
+447,Harambee Clinic NAI447,Clinic,Nairobi,Kenya
+448,Harambee Clinic KIS448,Clinic,Kisumu,Kenya
+449,Baraka Pharmacy KIS449,Retail Pharmacy,Kisumu,Kenya
+450,Prime Pharmacy KAM450,Retail Pharmacy,Kampala,Uganda
+451,Meadow Hospital NAI451,Hospital,Nairobi,Kenya
+452,Nyota Pharmacy DAR452,Retail Pharmacy,Dar es Salaam,Tanzania
+453,Sunrise Pharmacy NAK453,Retail Pharmacy,Nakuru,Kenya
+454,Baraka Clinic DAR454,Clinic,Dar es Salaam,Tanzania
+455,Lakeview Clinic NAI455,Clinic,Nairobi,Kenya
+456,Meadow Pharmacy KIS456,Retail Pharmacy,Kisumu,Kenya
+457,Harambee Hospital MBA457,Hospital,Mbarara,Uganda
+458,Summit Pharmacy ELD458,Retail Pharmacy,Eldoret,Kenya
+459,Hope Pharmacy KIS459,Retail Pharmacy,Kisumu,Kenya
+460,Sunrise Clinic NAI460,Clinic,Nairobi,Kenya
+461,Amani Hospital NAI461,Hospital,Nairobi,Kenya
+462,Amani Clinic MWA462,Clinic,Mwanza,Tanzania
+463,Metro Hospital NAK463,Hospital,Nakuru,Kenya
+464,Crescent Pharmacy NAK464,Retail Pharmacy,Nakuru,Kenya
+465,Cedar Pharmacy MOM465,Retail Pharmacy,Mombasa,Kenya
+466,Unity Clinic DAR466,Clinic,Dar es Salaam,Tanzania
+467,Lakeview Pharmacy DAR467,Retail Pharmacy,Dar es Salaam,Tanzania
+468,Crescent Pharmacy DOD468,Retail Pharmacy,Dodoma,Tanzania
+469,Amani Clinic DOD469,Clinic,Dodoma,Tanzania
+470,Cedar Pharmacy GUL470,Retail Pharmacy,Gulu,Uganda
+471,Kilimo Hospital GUL471,Hospital,Gulu,Uganda
+472,Prime Pharmacy JIN472,Retail Pharmacy,Jinja,Uganda
+473,Uzima Clinic NAK473,Clinic,Nakuru,Kenya
+474,Nyota Hospital ELD474,Hospital,Eldoret,Kenya
+475,Riverside Clinic ARU475,Clinic,Arusha,Tanzania
+476,Hope Pharmacy MOM476,Retail Pharmacy,Mombasa,Kenya
+477,Cedar Clinic ARU477,Clinic,Arusha,Tanzania
+478,Uzima Pharmacy DAR478,Retail Pharmacy,Dar es Salaam,Tanzania
+479,Kilimo Hospital ELD479,Hospital,Eldoret,Kenya
+480,Metro Clinic ELD480,Clinic,Eldoret,Kenya
+481,Prime Pharmacy ELD481,Retail Pharmacy,Eldoret,Kenya
+482,Unity Pharmacy NAK482,Retail Pharmacy,Nakuru,Kenya
+483,Nyota Pharmacy ARU483,Retail Pharmacy,Arusha,Tanzania
+484,Lakeview Hospital ARU484,Hospital,Arusha,Tanzania
+485,Highland Health Foundation ELD485,NGO,Eldoret,Kenya
+486,Prime Clinic NAK486,Clinic,Nakuru,Kenya
+487,Uzima Pharmacy KIS487,Retail Pharmacy,Kisumu,Kenya
+488,Kilimo Pharmacy NAK488,Retail Pharmacy,Nakuru,Kenya
+489,Nyota Pharmacy NAI489,Retail Pharmacy,Nairobi,Kenya
+490,Prime Pharmacy KIS490,Retail Pharmacy,Kisumu,Kenya
+491,Zawadi Clinic NAK491,Clinic,Nakuru,Kenya
+492,Lakeview Pharmacy NAI492,Retail Pharmacy,Nairobi,Kenya
+493,Riverside Clinic KIS493,Clinic,Kisumu,Kenya
+494,Baraka Hospital JIN494,Hospital,Jinja,Uganda
+495,Crescent Pharmacy KAM495,Retail Pharmacy,Kampala,Uganda
+496,Meadow Clinic KIS496,Clinic,Kisumu,Kenya
+497,Amani Hospital ELD497,Hospital,Eldoret,Kenya
+498,Nyota Clinic NAK498,Clinic,Nakuru,Kenya
+499,Hope Health Foundation MWA499,NGO,Mwanza,Tanzania
+500,Nyota Hospital NAI500,Hospital,Nairobi,Kenya
+501,Uzima Health Foundation NAI501,NGO,Nairobi,Kenya
+502,Nyota Clinic NAI502,Clinic,Nairobi,Kenya
+503,Highland Health Foundation MOM503,NGO,Mombasa,Kenya
+504,Hope Pharmacy KIS504,Retail Pharmacy,Kisumu,Kenya
+505,Riverside Hospital ELD505,Hospital,Eldoret,Kenya
+506,Hope Health Foundation NAI506,NGO,Nairobi,Kenya
+507,Crescent Pharmacy MWA507,Retail Pharmacy,Mwanza,Tanzania
+508,Baraka Pharmacy MWA508,Retail Pharmacy,Mwanza,Tanzania
+509,Lakeview Pharmacy ARU509,Retail Pharmacy,Arusha,Tanzania
+510,Hope Pharmacy MWA510,Retail Pharmacy,Mwanza,Tanzania
+511,Jubilee Pharmacy MOM511,Retail Pharmacy,Mombasa,Kenya
+512,Nyota Pharmacy KAM512,Retail Pharmacy,Kampala,Uganda
+513,Unity Pharmacy NAK513,Retail Pharmacy,Nakuru,Kenya
+514,Prime Hospital JIN514,Hospital,Jinja,Uganda
+515,Highland Hospital ARU515,Hospital,Arusha,Tanzania
+516,Hope Pharmacy DAR516,Retail Pharmacy,Dar es Salaam,Tanzania
+517,Harambee Pharmacy NAI517,Retail Pharmacy,Nairobi,Kenya
+518,Highland Pharmacy KAM518,Retail Pharmacy,Kampala,Uganda
+519,Uzima Hospital DOD519,Hospital,Dodoma,Tanzania
+520,Kilimo Health Foundation MBA520,NGO,Mbarara,Uganda
+521,Meadow Hospital MOM521,Hospital,Mombasa,Kenya
+522,Lakeview Hospital KIS522,Hospital,Kisumu,Kenya
+523,Highland Pharmacy DAR523,Retail Pharmacy,Dar es Salaam,Tanzania
+524,Lakeview Pharmacy NAI524,Retail Pharmacy,Nairobi,Kenya
+525,Highland Pharmacy MOM525,Retail Pharmacy,Mombasa,Kenya
+526,Harambee Pharmacy NAI526,Retail Pharmacy,Nairobi,Kenya
+527,Metro Pharmacy MOM527,Retail Pharmacy,Mombasa,Kenya
+528,Jubilee Clinic NAI528,Clinic,Nairobi,Kenya
+529,Zawadi Hospital DOD529,Hospital,Dodoma,Tanzania
+530,Cedar Clinic KIS530,Clinic,Kisumu,Kenya
+531,Uzima Clinic DOD531,Clinic,Dodoma,Tanzania
+532,Zawadi Clinic ARU532,Clinic,Arusha,Tanzania
+533,Summit Pharmacy ARU533,Retail Pharmacy,Arusha,Tanzania
+534,Highland Pharmacy DOD534,Retail Pharmacy,Dodoma,Tanzania
+535,Hope Clinic NAK535,Clinic,Nakuru,Kenya
+536,Lakeview Clinic GUL536,Clinic,Gulu,Uganda
+537,Crescent Pharmacy NAI537,Retail Pharmacy,Nairobi,Kenya
+538,Harambee Pharmacy NAI538,Retail Pharmacy,Nairobi,Kenya
+539,Uzima Clinic MOM539,Clinic,Mombasa,Kenya
+540,Zawadi Pharmacy ARU540,Retail Pharmacy,Arusha,Tanzania
+541,Kilimo Pharmacy JIN541,Retail Pharmacy,Jinja,Uganda
+542,Zawadi Pharmacy JIN542,Retail Pharmacy,Jinja,Uganda
+543,Kilimo Pharmacy JIN543,Retail Pharmacy,Jinja,Uganda
+544,Riverside Health Foundation ELD544,NGO,Eldoret,Kenya
+545,Uzima Clinic DOD545,Clinic,Dodoma,Tanzania
+546,Amani Pharmacy KAM546,Retail Pharmacy,Kampala,Uganda
+547,Uzima Pharmacy GUL547,Retail Pharmacy,Gulu,Uganda
+548,Sunrise Hospital ELD548,Hospital,Eldoret,Kenya
+549,Uzima Hospital NAK549,Hospital,Nakuru,Kenya
+550,Highland Hospital ELD550,Hospital,Eldoret,Kenya
+551,Sunrise Pharmacy JIN551,Retail Pharmacy,Jinja,Uganda
+552,Highland Pharmacy DOD552,Retail Pharmacy,Dodoma,Tanzania
+553,Kilimo Clinic JIN553,Clinic,Jinja,Uganda
+554,Hope Pharmacy KIS554,Retail Pharmacy,Kisumu,Kenya
+555,Highland Clinic ELD555,Clinic,Eldoret,Kenya
+556,Crescent Pharmacy ARU556,Retail Pharmacy,Arusha,Tanzania
+557,Lakeview Health Foundation DAR557,NGO,Dar es Salaam,Tanzania
+558,Hope Hospital MOM558,Hospital,Mombasa,Kenya
+559,Crescent Clinic KIS559,Clinic,Kisumu,Kenya
+560,Jubilee Pharmacy JIN560,Retail Pharmacy,Jinja,Uganda
+561,Jubilee Pharmacy KAM561,Retail Pharmacy,Kampala,Uganda
+562,Crescent Health Foundation NAK562,NGO,Nakuru,Kenya
+563,Crescent Pharmacy MWA563,Retail Pharmacy,Mwanza,Tanzania
+564,Kilimo Hospital MOM564,Hospital,Mombasa,Kenya
+565,Nyota Pharmacy MOM565,Retail Pharmacy,Mombasa,Kenya
+566,Prime Pharmacy MOM566,Retail Pharmacy,Mombasa,Kenya
+567,Amani Pharmacy JIN567,Retail Pharmacy,Jinja,Uganda
+568,Riverside Clinic JIN568,Clinic,Jinja,Uganda
+569,Highland Health Foundation JIN569,NGO,Jinja,Uganda
+570,Sunrise Clinic MWA570,Clinic,Mwanza,Tanzania
+571,Nyota Clinic NAI571,Clinic,Nairobi,Kenya
+572,Unity Pharmacy ELD572,Retail Pharmacy,Eldoret,Kenya
+573,Riverside Clinic KIS573,Clinic,Kisumu,Kenya
+574,Jubilee Clinic MBA574,Clinic,Mbarara,Uganda
+575,Jubilee Clinic MBA575,Clinic,Mbarara,Uganda
+576,Cedar Pharmacy DOD576,Retail Pharmacy,Dodoma,Tanzania
+577,Zawadi Clinic KIS577,Clinic,Kisumu,Kenya
+578,Crescent Pharmacy NAK578,Retail Pharmacy,Nakuru,Kenya
+579,Prime Pharmacy JIN579,Retail Pharmacy,Jinja,Uganda
+580,Cedar Clinic DAR580,Clinic,Dar es Salaam,Tanzania
+581,Uzima Health Foundation NAI581,NGO,Nairobi,Kenya
+582,Metro Pharmacy MBA582,Retail Pharmacy,Mbarara,Uganda
+583,Metro Clinic MOM583,Clinic,Mombasa,Kenya
+584,Harambee Clinic NAI584,Clinic,Nairobi,Kenya
+585,Amani Hospital DOD585,Hospital,Dodoma,Tanzania
+586,Zawadi Pharmacy KIS586,Retail Pharmacy,Kisumu,Kenya
+587,Metro Hospital KIS587,Hospital,Kisumu,Kenya
+588,Sunrise Pharmacy DOD588,Retail Pharmacy,Dodoma,Tanzania
+589,Baraka Pharmacy MOM589,Retail Pharmacy,Mombasa,Kenya
+590,Meadow Clinic MOM590,Clinic,Mombasa,Kenya
+591,Harambee Pharmacy ARU591,Retail Pharmacy,Arusha,Tanzania
+592,Highland Pharmacy NAI592,Retail Pharmacy,Nairobi,Kenya
+593,Baraka Pharmacy ARU593,Retail Pharmacy,Arusha,Tanzania
+594,Meadow Hospital KAM594,Hospital,Kampala,Uganda
+595,Lakeview Clinic KIS595,Clinic,Kisumu,Kenya
+596,Amani Clinic NAI596,Clinic,Nairobi,Kenya
+597,Prime Hospital ELD597,Hospital,Eldoret,Kenya
+598,Nyota Pharmacy NAI598,Retail Pharmacy,Nairobi,Kenya
+599,Riverside Clinic NAK599,Clinic,Nakuru,Kenya
+600,Cedar Clinic DAR600,Clinic,Dar es Salaam,Tanzania
+601,Nyota Pharmacy NAI601,Retail Pharmacy,Nairobi,Kenya
+602,Zawadi Hospital ELD602,Hospital,Eldoret,Kenya
+603,Riverside Hospital ARU603,Hospital,Arusha,Tanzania
+604,Jubilee Pharmacy MWA604,Retail Pharmacy,Mwanza,Tanzania
+605,Cedar Hospital ELD605,Hospital,Eldoret,Kenya
+606,Zawadi Clinic GUL606,Clinic,Gulu,Uganda
+607,Lakeview Pharmacy MOM607,Retail Pharmacy,Mombasa,Kenya
+608,Prime Pharmacy KIS608,Retail Pharmacy,Kisumu,Kenya
+609,Riverside Pharmacy MOM609,Retail Pharmacy,Mombasa,Kenya
+610,Jubilee Hospital DAR610,Hospital,Dar es Salaam,Tanzania
+611,Cedar Clinic KAM611,Clinic,Kampala,Uganda
+612,Baraka Pharmacy MOM612,Retail Pharmacy,Mombasa,Kenya
+613,Highland Health Foundation DAR613,NGO,Dar es Salaam,Tanzania
+614,Meadow Pharmacy KAM614,Retail Pharmacy,Kampala,Uganda
+615,Jubilee Pharmacy MWA615,Retail Pharmacy,Mwanza,Tanzania
+616,Harambee Health Foundation KAM616,NGO,Kampala,Uganda
+617,Sunrise Pharmacy MOM617,Retail Pharmacy,Mombasa,Kenya
+618,Prime Clinic MBA618,Clinic,Mbarara,Uganda
+619,Amani Clinic DOD619,Clinic,Dodoma,Tanzania
+620,Crescent Pharmacy KAM620,Retail Pharmacy,Kampala,Uganda
+621,Summit Clinic ARU621,Clinic,Arusha,Tanzania
+622,Summit Hospital ELD622,Hospital,Eldoret,Kenya
+623,Harambee Pharmacy KIS623,Retail Pharmacy,Kisumu,Kenya
+624,Zawadi Health Foundation KIS624,NGO,Kisumu,Kenya
+625,Meadow Clinic NAI625,Clinic,Nairobi,Kenya
+626,Baraka Clinic DAR626,Clinic,Dar es Salaam,Tanzania
+627,Highland Hospital KAM627,Hospital,Kampala,Uganda
+628,Crescent Clinic DOD628,Clinic,Dodoma,Tanzania
+629,Uzima Clinic KIS629,Clinic,Kisumu,Kenya
+630,Unity Clinic GUL630,Clinic,Gulu,Uganda
+631,Kilimo Health Foundation ARU631,NGO,Arusha,Tanzania
+632,Lakeview Hospital NAI632,Hospital,Nairobi,Kenya
+633,Kilimo Pharmacy JIN633,Retail Pharmacy,Jinja,Uganda
+634,Lakeview Hospital JIN634,Hospital,Jinja,Uganda
+635,Highland Hospital MBA635,Hospital,Mbarara,Uganda
+636,Riverside Hospital GUL636,Hospital,Gulu,Uganda
+637,Meadow Pharmacy NAK637,Retail Pharmacy,Nakuru,Kenya
+638,Lakeview Clinic MWA638,Clinic,Mwanza,Tanzania
+639,Riverside Pharmacy KAM639,Retail Pharmacy,Kampala,Uganda
+640,Harambee Hospital MWA640,Hospital,Mwanza,Tanzania
+641,Meadow Pharmacy KIS641,Retail Pharmacy,Kisumu,Kenya
+642,Highland Hospital GUL642,Hospital,Gulu,Uganda
+643,Sunrise Pharmacy MOM643,Retail Pharmacy,Mombasa,Kenya
+644,Sunrise Health Foundation NAI644,NGO,Nairobi,Kenya
+645,Amani Pharmacy KIS645,Retail Pharmacy,Kisumu,Kenya
+646,Meadow Pharmacy ARU646,Retail Pharmacy,Arusha,Tanzania
+647,Summit Pharmacy DOD647,Retail Pharmacy,Dodoma,Tanzania
+648,Uzima Pharmacy MWA648,Retail Pharmacy,Mwanza,Tanzania
+649,Metro Clinic DAR649,Clinic,Dar es Salaam,Tanzania
+650,Hope Pharmacy MBA650,Retail Pharmacy,Mbarara,Uganda
+651,Metro Pharmacy ELD651,Retail Pharmacy,Eldoret,Kenya
+652,Hope Clinic MWA652,Clinic,Mwanza,Tanzania
+653,Prime Health Foundation MOM653,NGO,Mombasa,Kenya
+654,Crescent Hospital GUL654,Hospital,Gulu,Uganda
+655,Highland Pharmacy KIS655,Retail Pharmacy,Kisumu,Kenya
+656,Sunrise Clinic NAI656,Clinic,Nairobi,Kenya
+657,Harambee Hospital NAI657,Hospital,Nairobi,Kenya
+658,Meadow Hospital MOM658,Hospital,Mombasa,Kenya
+659,Unity Clinic JIN659,Clinic,Jinja,Uganda
+660,Summit Clinic DAR660,Clinic,Dar es Salaam,Tanzania
+661,Metro Hospital GUL661,Hospital,Gulu,Uganda
+662,Riverside Pharmacy MBA662,Retail Pharmacy,Mbarara,Uganda
+663,Baraka Clinic GUL663,Clinic,Gulu,Uganda
+664,Lakeview Hospital MOM664,Hospital,Mombasa,Kenya
+665,Meadow Pharmacy KIS665,Retail Pharmacy,Kisumu,Kenya
+666,Riverside Pharmacy KAM666,Retail Pharmacy,Kampala,Uganda
+667,Summit Pharmacy ELD667,Retail Pharmacy,Eldoret,Kenya
+668,Baraka Hospital JIN668,Hospital,Jinja,Uganda
+669,Nyota Pharmacy MWA669,Retail Pharmacy,Mwanza,Tanzania
+670,Highland Pharmacy NAK670,Retail Pharmacy,Nakuru,Kenya
+671,Metro Hospital KIS671,Hospital,Kisumu,Kenya
+672,Prime Hospital MBA672,Hospital,Mbarara,Uganda
+673,Hope Pharmacy NAK673,Retail Pharmacy,Nakuru,Kenya
+674,Sunrise Health Foundation KAM674,NGO,Kampala,Uganda
+675,Kilimo Clinic KAM675,Clinic,Kampala,Uganda
+676,Highland Hospital GUL676,Hospital,Gulu,Uganda
+677,Baraka Pharmacy MWA677,Retail Pharmacy,Mwanza,Tanzania
+678,Sunrise Clinic ELD678,Clinic,Eldoret,Kenya
+679,Metro Pharmacy NAI679,Retail Pharmacy,Nairobi,Kenya
+680,Amani Pharmacy KIS680,Retail Pharmacy,Kisumu,Kenya
+681,Metro Clinic KIS681,Clinic,Kisumu,Kenya
+682,Meadow Pharmacy GUL682,Retail Pharmacy,Gulu,Uganda
+683,Sunrise Pharmacy ARU683,Retail Pharmacy,Arusha,Tanzania
+684,Unity Health Foundation ARU684,NGO,Arusha,Tanzania
+685,Hope Hospital JIN685,Hospital,Jinja,Uganda
+686,Kilimo Pharmacy NAK686,Retail Pharmacy,Nakuru,Kenya
+687,Cedar Clinic NAK687,Clinic,Nakuru,Kenya
+688,Nyota Clinic ARU688,Clinic,Arusha,Tanzania
+689,Baraka Pharmacy ARU689,Retail Pharmacy,Arusha,Tanzania
+690,Jubilee Clinic KIS690,Clinic,Kisumu,Kenya
+691,Summit Clinic DOD691,Clinic,Dodoma,Tanzania
+692,Summit Health Foundation ELD692,NGO,Eldoret,Kenya
+693,Lakeview Hospital KIS693,Hospital,Kisumu,Kenya
+694,Harambee Pharmacy MOM694,Retail Pharmacy,Mombasa,Kenya
+695,Nyota Clinic NAI695,Clinic,Nairobi,Kenya
+696,Amani Pharmacy MBA696,Retail Pharmacy,Mbarara,Uganda
+697,Sunrise Clinic KIS697,Clinic,Kisumu,Kenya
+698,Harambee Clinic KAM698,Clinic,Kampala,Uganda
+699,Meadow Pharmacy MWA699,Retail Pharmacy,Mwanza,Tanzania
+700,Riverside Clinic GUL700,Clinic,Gulu,Uganda
+701,Uzima Health Foundation MWA701,NGO,Mwanza,Tanzania
+702,Cedar Clinic ARU702,Clinic,Arusha,Tanzania
+703,Unity Pharmacy ARU703,Retail Pharmacy,Arusha,Tanzania
+704,Lakeview Pharmacy KIS704,Retail Pharmacy,Kisumu,Kenya
+705,Jubilee Pharmacy ELD705,Retail Pharmacy,Eldoret,Kenya
+706,Sunrise Clinic MOM706,Clinic,Mombasa,Kenya
+707,Sunrise Hospital ELD707,Hospital,Eldoret,Kenya
+708,Highland Pharmacy JIN708,Retail Pharmacy,Jinja,Uganda
+709,Amani Hospital MOM709,Hospital,Mombasa,Kenya
+710,Prime Clinic KIS710,Clinic,Kisumu,Kenya
+711,Jubilee Clinic NAK711,Clinic,Nakuru,Kenya
+712,Prime Hospital ELD712,Hospital,Eldoret,Kenya
+713,Hope Pharmacy JIN713,Retail Pharmacy,Jinja,Uganda
+714,Uzima Hospital NAK714,Hospital,Nakuru,Kenya
+715,Amani Clinic ELD715,Clinic,Eldoret,Kenya
+716,Meadow Pharmacy DOD716,Retail Pharmacy,Dodoma,Tanzania
+717,Summit Pharmacy ELD717,Retail Pharmacy,Eldoret,Kenya
+718,Riverside Hospital GUL718,Hospital,Gulu,Uganda
+719,Riverside Clinic ARU719,Clinic,Arusha,Tanzania
+720,Sunrise Pharmacy ARU720,Retail Pharmacy,Arusha,Tanzania
+721,Cedar Health Foundation KAM721,NGO,Kampala,Uganda
+722,Riverside Pharmacy MOM722,Retail Pharmacy,Mombasa,Kenya
+723,Nyota Hospital ELD723,Hospital,Eldoret,Kenya
+724,Nyota Hospital ELD724,Hospital,Eldoret,Kenya
+725,Prime Pharmacy MWA725,Retail Pharmacy,Mwanza,Tanzania
+726,Meadow Clinic KIS726,Clinic,Kisumu,Kenya
+727,Nyota Pharmacy NAK727,Retail Pharmacy,Nakuru,Kenya
+728,Uzima Pharmacy ELD728,Retail Pharmacy,Eldoret,Kenya
+729,Jubilee Pharmacy KIS729,Retail Pharmacy,Kisumu,Kenya
+730,Highland Hospital KIS730,Hospital,Kisumu,Kenya
+731,Lakeview Pharmacy MBA731,Retail Pharmacy,Mbarara,Uganda
+732,Crescent Clinic ELD732,Clinic,Eldoret,Kenya
+733,Zawadi Pharmacy ARU733,Retail Pharmacy,Arusha,Tanzania
+734,Summit Pharmacy NAI734,Retail Pharmacy,Nairobi,Kenya
+735,Baraka Clinic KAM735,Clinic,Kampala,Uganda
+736,Summit Clinic DAR736,Clinic,Dar es Salaam,Tanzania
+737,Jubilee Clinic GUL737,Clinic,Gulu,Uganda
+738,Metro Clinic MBA738,Clinic,Mbarara,Uganda
+739,Jubilee Pharmacy NAI739,Retail Pharmacy,Nairobi,Kenya
+740,Cedar Clinic ELD740,Clinic,Eldoret,Kenya
+741,Highland Pharmacy DOD741,Retail Pharmacy,Dodoma,Tanzania
+742,Amani Pharmacy DOD742,Retail Pharmacy,Dodoma,Tanzania
+743,Jubilee Hospital NAK743,Hospital,Nakuru,Kenya
+744,Kilimo Pharmacy KIS744,Retail Pharmacy,Kisumu,Kenya
+745,Amani Hospital NAI745,Hospital,Nairobi,Kenya
+746,Amani Clinic MOM746,Clinic,Mombasa,Kenya
+747,Kilimo Health Foundation MBA747,NGO,Mbarara,Uganda
+748,Kilimo Pharmacy ARU748,Retail Pharmacy,Arusha,Tanzania
+749,Cedar Clinic MWA749,Clinic,Mwanza,Tanzania
+750,Nyota Pharmacy MBA750,Retail Pharmacy,Mbarara,Uganda
+751,Riverside Health Foundation MWA751,NGO,Mwanza,Tanzania
+752,Metro Hospital KIS752,Hospital,Kisumu,Kenya
+753,Jubilee Pharmacy NAI753,Retail Pharmacy,Nairobi,Kenya
+754,Riverside Pharmacy NAK754,Retail Pharmacy,Nakuru,Kenya
+755,Unity Clinic DAR755,Clinic,Dar es Salaam,Tanzania
+756,Nyota Hospital NAI756,Hospital,Nairobi,Kenya
+757,Baraka Pharmacy JIN757,Retail Pharmacy,Jinja,Uganda
+758,Metro Clinic ELD758,Clinic,Eldoret,Kenya
+759,Summit Health Foundation DAR759,NGO,Dar es Salaam,Tanzania
+760,Meadow Pharmacy NAK760,Retail Pharmacy,Nakuru,Kenya
+761,Crescent Pharmacy GUL761,Retail Pharmacy,Gulu,Uganda
+762,Zawadi Clinic KIS762,Clinic,Kisumu,Kenya
+763,Kilimo Hospital MBA763,Hospital,Mbarara,Uganda
+764,Uzima Pharmacy MOM764,Retail Pharmacy,Mombasa,Kenya
+765,Zawadi Pharmacy NAK765,Retail Pharmacy,Nakuru,Kenya
+766,Crescent Hospital MOM766,Hospital,Mombasa,Kenya
+767,Hope Clinic MOM767,Clinic,Mombasa,Kenya
+768,Lakeview Pharmacy MOM768,Retail Pharmacy,Mombasa,Kenya
+769,Highland Clinic ELD769,Clinic,Eldoret,Kenya
+770,Uzima Pharmacy GUL770,Retail Pharmacy,Gulu,Uganda
+771,Prime Pharmacy NAK771,Retail Pharmacy,Nakuru,Kenya
+772,Unity Pharmacy KIS772,Retail Pharmacy,Kisumu,Kenya
+773,Prime Pharmacy KIS773,Retail Pharmacy,Kisumu,Kenya
+774,Zawadi Pharmacy MWA774,Retail Pharmacy,Mwanza,Tanzania
+775,Unity Pharmacy NAK775,Retail Pharmacy,Nakuru,Kenya
+776,Baraka Pharmacy MOM776,Retail Pharmacy,Mombasa,Kenya
+777,Nyota Hospital MOM777,Hospital,Mombasa,Kenya
+778,Lakeview Pharmacy NAI778,Retail Pharmacy,Nairobi,Kenya
+779,Lakeview Hospital KIS779,Hospital,Kisumu,Kenya
+780,Sunrise Health Foundation MOM780,NGO,Mombasa,Kenya
+781,Crescent Pharmacy NAI781,Retail Pharmacy,Nairobi,Kenya
+782,Nyota Hospital GUL782,Hospital,Gulu,Uganda
+783,Unity Health Foundation ELD783,NGO,Eldoret,Kenya
+784,Baraka Pharmacy KAM784,Retail Pharmacy,Kampala,Uganda
+785,Unity Pharmacy ARU785,Retail Pharmacy,Arusha,Tanzania
+786,Highland Hospital ELD786,Hospital,Eldoret,Kenya
+787,Sunrise Clinic ELD787,Clinic,Eldoret,Kenya
+788,Nyota Pharmacy MBA788,Retail Pharmacy,Mbarara,Uganda
+789,Lakeview Hospital MBA789,Hospital,Mbarara,Uganda
+790,Crescent Clinic NAI790,Clinic,Nairobi,Kenya
+791,Jubilee Health Foundation KAM791,NGO,Kampala,Uganda
+792,Metro Clinic NAI792,Clinic,Nairobi,Kenya
+793,Unity Clinic KAM793,Clinic,Kampala,Uganda
+794,Nyota Clinic KIS794,Clinic,Kisumu,Kenya
+795,Hope Hospital KIS795,Hospital,Kisumu,Kenya
+796,Hope Hospital GUL796,Hospital,Gulu,Uganda
+797,Prime Pharmacy MOM797,Retail Pharmacy,Mombasa,Kenya
+798,Baraka Pharmacy DAR798,Retail Pharmacy,Dar es Salaam,Tanzania
+799,Hope Pharmacy ELD799,Retail Pharmacy,Eldoret,Kenya
+800,Riverside Clinic KIS800,Clinic,Kisumu,Kenya

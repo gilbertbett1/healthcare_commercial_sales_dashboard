@@ -1,0 +1,105 @@
+product_id,product_name,category,sub_category,unit_cost,unit_price
+1,Amoxicillin 20s Pack,Pharmaceuticals,Antibiotics,714.62,1357.0
+2,Amoxicillin 250mg,Pharmaceuticals,Antibiotics,429.26,790.37
+3,Ciprofloxacin 250mg,Pharmaceuticals,Antibiotics,439.85,808.95
+4,Ciprofloxacin 10ml Suspension,Pharmaceuticals,Antibiotics,511.61,939.07
+5,Azithromycin 500mg,Pharmaceuticals,Antibiotics,385.42,775.48
+6,Azithromycin 10ml Suspension,Pharmaceuticals,Antibiotics,274.8,460.61
+7,Doxycycline 250mg,Pharmaceuticals,Antibiotics,607.95,1060.16
+8,Doxycycline 10ml Suspension,Pharmaceuticals,Antibiotics,49.76,77.33
+9,Metronidazole 10ml Suspension,Pharmaceuticals,Antibiotics,162.51,311.66
+10,Metronidazole 250mg,Pharmaceuticals,Antibiotics,292.32,549.03
+11,Paracetamol 500mg,Pharmaceuticals,Analgesics,866.85,1772.84
+12,Paracetamol 20s Pack,Pharmaceuticals,Analgesics,873.18,1717.76
+13,Ibuprofen 500mg,Pharmaceuticals,Analgesics,815.26,1445.84
+14,Ibuprofen 20s Pack,Pharmaceuticals,Analgesics,533.92,857.51
+15,Diclofenac 250mg,Pharmaceuticals,Analgesics,405.92,761.66
+16,Diclofenac 20s Pack,Pharmaceuticals,Analgesics,103.47,181.02
+17,Aspirin 250mg,Pharmaceuticals,Analgesics,119.96,222.24
+18,Aspirin 500mg,Pharmaceuticals,Analgesics,535.52,914.73
+19,Artemether-Lumefantrine 20mg/120mg,Pharmaceuticals,Antimalarials,449.6,885.55
+20,Artemether-Lumefantrine 24s Pack,Pharmaceuticals,Antimalarials,456.92,942.49
+21,Quinine Sulphate 6s Pack,Pharmaceuticals,Antimalarials,482.98,851.66
+22,Quinine Sulphate 80mg/480mg,Pharmaceuticals,Antimalarials,809.66,1282.62
+23,Sulfadoxine-Pyrimethamine 20mg/120mg,Pharmaceuticals,Antimalarials,274.67,520.68
+24,Sulfadoxine-Pyrimethamine 6s Pack,Pharmaceuticals,Antimalarials,123.73,253.6
+25,Amlodipine 5mg,Pharmaceuticals,Cardiovascular,751.92,1492.52
+26,Amlodipine 20mg,Pharmaceuticals,Cardiovascular,283.1,512.14
+27,Atenolol 5mg,Pharmaceuticals,Cardiovascular,69.07,121.64
+28,Atenolol 10mg,Pharmaceuticals,Cardiovascular,681.29,1386.07
+29,Losartan 30s Pack,Pharmaceuticals,Cardiovascular,605.65,1044.26
+30,Losartan 10mg,Pharmaceuticals,Cardiovascular,258.34,532.72
+31,Simvastatin 20mg,Pharmaceuticals,Cardiovascular,163.36,262.61
+32,Simvastatin 5mg,Pharmaceuticals,Cardiovascular,200.9,338.76
+33,Metformin 10ml Vial,Pharmaceuticals,Diabetes Care,42.12,68.98
+34,Metformin 850mg,Pharmaceuticals,Diabetes Care,135.99,245.3
+35,Glibenclamide 850mg,Pharmaceuticals,Diabetes Care,729.59,1407.56
+36,Glibenclamide 500mg,Pharmaceuticals,Diabetes Care,137.67,283.12
+37,Insulin Glargine 500mg,Pharmaceuticals,Diabetes Care,861.39,1440.13
+38,Insulin Glargine 850mg,Pharmaceuticals,Diabetes Care,513.02,964.68
+39,Salbutamol Inhaler 30s Pack,Pharmaceuticals,Respiratory,870.62,1617.29
+40,Salbutamol Inhaler 10mg,Pharmaceuticals,Respiratory,436.62,860.52
+41,Cetirizine 30s Pack,Pharmaceuticals,Respiratory,232.4,422.61
+42,Cetirizine 100mcg Inhaler,Pharmaceuticals,Respiratory,554.7,969.36
+43,Loratadine 10mg,Pharmaceuticals,Respiratory,784.72,1390.79
+44,Loratadine 100mcg Inhaler,Pharmaceuticals,Respiratory,679.03,1351.23
+45,Multivitamin Syrup 5mg,Consumer Health,Vitamins & Supplements,501.81,738.63
+46,Multivitamin Syrup 500mg,Consumer Health,Vitamins & Supplements,132.7,195.97
+47,Vitamin C Tablets 5mg,Consumer Health,Vitamins & Supplements,71.02,101.32
+48,Vitamin C Tablets 250mg,Consumer Health,Vitamins & Supplements,421.2,656.65
+49,Iron & Folic Acid 5mg,Consumer Health,Vitamins & Supplements,64.35,97.71
+50,Iron & Folic Acid 50s Pack,Consumer Health,Vitamins & Supplements,359.89,512.71
+51,Zinc Tablets 20s Pack,Consumer Health,Vitamins & Supplements,96.94,138.23
+52,Zinc Tablets 50s Pack,Consumer Health,Vitamins & Supplements,95.5,176.8
+53,Calcium + Vit D 500mg,Consumer Health,Vitamins & Supplements,399.79,586.6
+54,Calcium + Vit D 50s Pack,Consumer Health,Vitamins & Supplements,327.96,535.03
+55,Fluoride Toothpaste Pack of 3,Consumer Health,Oral Care,189.22,310.12
+56,Fluoride Toothpaste Box of 10,Consumer Health,Oral Care,170.24,269.52
+57,Antiseptic Mouthwash Box of 10,Consumer Health,Oral Care,206.25,383.25
+58,Antiseptic Mouthwash 150ml Tube,Consumer Health,Oral Care,223.88,408.42
+59,Toothbrush Pack Pack of 3,Consumer Health,Oral Care,338.32,522.39
+60,Toothbrush Pack 100ml Tube,Consumer Health,Oral Care,153.35,280.69
+61,Petroleum Jelly 200ml Bottle,Consumer Health,Skin Care,446.4,833.86
+62,Petroleum Jelly Pack of 2,Consumer Health,Skin Care,576.97,979.03
+63,Antifungal Cream 50g Tube,Consumer Health,Skin Care,569.78,965.8
+64,Antifungal Cream Pack of 2,Consumer Health,Skin Care,385.05,647.84
+65,Sunscreen Lotion 100g Jar,Consumer Health,Skin Care,467.8,770.03
+66,Sunscreen Lotion Pack of 2,Consumer Health,Skin Care,561.49,818.96
+67,Antibacterial Soap 250ml Bottle,Consumer Health,Personal Care,274.42,476.29
+68,Antibacterial Soap Box of 10,Consumer Health,Personal Care,543.09,833.79
+69,Hand Sanitizer Gel Box of 10,Consumer Health,Personal Care,122.76,198.74
+70,Hand Sanitizer Gel 250ml Bottle,Consumer Health,Personal Care,448.62,838.05
+71,Baby Diaper Pack Pack of 3,Consumer Health,Personal Care,250.76,441.06
+72,Baby Diaper Pack 100g Bar,Consumer Health,Personal Care,106.35,182.77
+73,Digital Thermometer Set of 2,Medical Equipment,Diagnostic Devices,517.76,641.3
+74,Digital Thermometer Unit,Medical Equipment,Diagnostic Devices,8416.3,11997.71
+75,Blood Pressure Monitor Set of 2,Medical Equipment,Diagnostic Devices,2257.41,2788.29
+76,Blood Pressure Monitor Box of 5,Medical Equipment,Diagnostic Devices,15113.07,20398.19
+77,Glucometer Kit Unit,Medical Equipment,Diagnostic Devices,16177.49,19298.23
+78,Glucometer Kit Set of 2,Medical Equipment,Diagnostic Devices,14048.79,18922.04
+79,Pulse Oximeter Box of 5,Medical Equipment,Diagnostic Devices,396.11,550.77
+80,Pulse Oximeter Unit,Medical Equipment,Diagnostic Devices,4522.38,6287.42
+81,Suture Kit Sterile Pack of 10,Medical Equipment,Surgical Instruments,12656.74,15321.42
+82,Suture Kit Box of 5,Medical Equipment,Surgical Instruments,2511.15,3362.44
+83,Surgical Scissors Set Box of 5,Medical Equipment,Surgical Instruments,3047.27,3751.88
+84,Surgical Scissors Set Set,Medical Equipment,Surgical Instruments,12865.31,15005.46
+85,Scalpel Blade Pack Box of 5,Medical Equipment,Surgical Instruments,15949.38,18780.65
+86,Scalpel Blade Pack Set,Medical Equipment,Surgical Instruments,3548.54,4915.52
+87,Wheelchair Standard Unit,Medical Equipment,Mobility Aids,10431.71,12939.52
+88,Wheelchair Standard Foldable,Medical Equipment,Mobility Aids,10530.9,15082.13
+89,Crutches Pair Foldable,Medical Equipment,Mobility Aids,7451.41,8868.88
+90,Crutches Pair Unit,Medical Equipment,Mobility Aids,5221.94,6962.39
+91,Hospital Bed Manual Standard,Medical Equipment,Mobility Aids,7589.05,10066.81
+92,Hospital Bed Manual Foldable,Medical Equipment,Mobility Aids,5911.62,7639.23
+93,Nitrile Gloves Box Carton of 10 Boxes,Medical Equipment,PPE,1479.56,2063.79
+94,Nitrile Gloves Box Box of 50,Medical Equipment,PPE,2000.47,2817.06
+95,Surgical Face Masks Box Box of 100,Medical Equipment,PPE,1881.26,2739.27
+96,Surgical Face Masks Box Carton of 10 Boxes,Medical Equipment,PPE,2029.7,2709.16
+97,Disposable Gowns Pack Box of 50,Medical Equipment,PPE,280.58,391.18
+98,Disposable Gowns Pack Carton of 10 Boxes,Medical Equipment,PPE,1895.33,2675.6
+99,Examination Couch Unit,Medical Equipment,Hospital Furniture,10934.88,15719.2
+100,Examination Couch Standard,Medical Equipment,Hospital Furniture,17919.72,24304.51
+101,IV Stand Standard,Medical Equipment,Hospital Furniture,7164.8,8688.88
+102,IV Stand Unit,Medical Equipment,Hospital Furniture,9594.06,13440.24
+103,Bedside Cabinet Unit,Medical Equipment,Hospital Furniture,10140.66,12092.52
+104,Bedside Cabinet Standard,Medical Equipment,Hospital Furniture,8233.95,11334.85
