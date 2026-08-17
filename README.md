@@ -48,5 +48,5 @@ A SQL view (`vw_fact_sales_normalized`) converts all revenue to a consistent KES
 
 ## Known Limitations
 
-- **Rep quotas aren't scaled by territory size.** A rep covering a smaller market (e.g., Uganda, ~200 customers) carries the same tier-based target as one covering a larger market (e.g., Kenya, ~400 customers). A production version would size quotas against territory potential, not just rep seniority.
-- **No inventory/stockout data.** This phase covers sales, margin, and rep performance only. Inventory tracking is a natural Phase 2 extension.
+- **Rep quotas aren't scaled by territory size.** A rep covering a smaller market (e.g., Uganda) carries the same tier-based target as one covering a larger market (e.g., Kenya). A production version would size quotas against territory potential, not just rep seniority.
+- **No inventory/stockout data.** This phase covers sales, margin, and rep performance only. Inventory tracking is a natural extension.
