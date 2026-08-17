@@ -40,9 +40,6 @@ A star schema with two fact tables at different grains:
 
 A SQL view (`vw_fact_sales_normalized`) converts all revenue to a consistent KES baseline using the exchange rate active on each transaction's actual date, not a static constant, so cross-country comparisons stay accurate as FX rates move.
 
-Full schema, SQL, and DAX are in [`/sql`](sql/) and [`/dax`](dax/).
-
-
 ## Reproducing This Project
 
 1. Run `sql/01_create_schema.sql` to build the database.
