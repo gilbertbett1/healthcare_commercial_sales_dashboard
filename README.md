@@ -2,7 +2,8 @@
 
 An end-to-end BI project using a MySQL data warehouse, Python-based ETL, and a Power BI dashboard. It gives a fictional East African healthcare distributor visibility into revenue, margin, and field sales performance across Kenya, Uganda, and Tanzania.
 
-![Dashboard Preview](docs/dashboard_screenshot.png)
+<img width="1583" height="891" alt="image" src="https://github.com/user-attachments/assets/0f38a25a-75a9-44fc-966e-43a70215d407" />
+
 
 ## The Problem
 
